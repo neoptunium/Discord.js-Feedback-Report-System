@@ -1,6 +1,6 @@
 # Discord.js-Feedback-Report-System Infomration
 
-This is a pretty cool system that allows you to have users create feedback and then post it in a channel which then gathers the stats of all the feedbacks and udpates the channel description. In addition, a report system where it goes through filters best as possible to get the most organized information possible so it's easier for moderators to view the reports. In order for the command to work you have to do the following;
+This is a pretty cool system that allows you to have users create feedback and then post it in a channel which then gathers the stats of all the feedbacks and updates the channel description. In addition, a report system where it goes through filters best as possible to get the most organized information possible so it's easier for moderators. In order for the command to work you have to do the following;
 
 **[PREFIX]feedback**
 
